@@ -1,0 +1,69 @@
+{
+  "accounts": [
+    {
+      "id": "admin-alaa",
+      "name": "علاء مرزوق",
+      "identifier": "alaa@paramind.org",
+      "pin": "admin2026",
+      "role": "Admin",
+      "status": "Active",
+      "createdAt": "2026-11-14T21:13:22.855Z"
+    },
+    {
+      "id": "admin-aseel",
+      "name": "أسيل ربيع",
+      "identifier": "aseel@paramind.org",
+      "pin": "admin2026",
+      "role": "Admin",
+      "status": "Active",
+      "createdAt": "2026-11-14T21:13:22.855Z"
+    },
+    {
+      "id": "me-evaluator-default",
+      "name": "عضو التقييم والمتابعة",
+      "identifier": "evaluator@paramind.org",
+      "pin": "paramind-me",
+      "role": "M&E",
+      "status": "Active",
+      "createdAt": "2026-11-14T21:13:22.855Z"
+    },
+    {
+      "id": "limited-operator-default",
+      "name": "ميسر الورشة المناوب",
+      "identifier": "operator@paramind.org",
+      "pin": "1234",
+      "role": "Limited",
+      "status": "Active",
+      "createdAt": "2026-11-14T21:13:22.855Z"
+    }
+  ],
+  "tech": {
+    "appsScriptUrl": "",
+    "googleSheetUrl": "",
+    "enableRemoteAuth": false,
+    "emails": [
+      {
+        "id": "email-official-1",
+        "email": "events@paramind.org",
+        "label": "البريد الرسمي الرئيسي للمبادرة",
+        "type": "official",
+        "active": true
+      },
+      {
+        "id": "email-backup-1",
+        "email": "backup@paramind.org",
+        "label": "البريد الاحتياطي للطوارئ",
+        "type": "backup",
+        "active": true
+      }
+    ],
+    "updatedAt": "2026-11-14T21:13:22.855Z"
+  },
+  "template": {
+    "header": "مبادرة PARAMIND — دعوة حضور رسمية",
+    "subject": "تأكيد تسجيلك ورابط مجموعة الواتساب لورشة: {workshop}",
+    "body": "مرحباً {name}،\n\nيسعدنا انضمامك إلى ورشة «{workshop}» ضمن مبادرة PARAMIND.\nيرجى الانضمام إلى مجموعة الواتساب الخاصة بالورشة عبر الرابط التالي لمتابعة التعليمات وموعد الجلسة:\n{whatsapp_link}\n\nمع أطيب التحيات،\nفريق مبادرة PARAMIND",
+    "isLocked": true,
+    "updatedAt": "2026-11-14T21:13:22.855Z"
+  }
+}

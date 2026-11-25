@@ -1,0 +1,47 @@
+[
+  {
+    "id": "7539b43c-8409-4a7a-98b8-2d14144e7e61",
+    "actorName": "علاء مرزوق",
+    "actorIdentifier": "alaa@paramind.org",
+    "actorRole": "Admin",
+    "actionType": "rbac",
+    "details": "حذف حساب: مؤقت (temp@paramind.org)",
+    "createdAt": "2026-11-14T21:13:22.925Z"
+  },
+  {
+    "id": "e575c5c0-f172-4821-a59a-0e87b9ea2883",
+    "actorName": "علاء مرزوق",
+    "actorIdentifier": "alaa@paramind.org",
+    "actorRole": "Admin",
+    "actionType": "rbac",
+    "details": "تعديل حساب مؤقت: الصلاحية (Limited) · الحالة (Blocked)",
+    "createdAt": "2026-11-14T21:13:22.914Z"
+  },
+  {
+    "id": "d19cfc2d-b0dd-491c-b3bd-3758b05b3123",
+    "actorName": "علاء مرزوق",
+    "actorIdentifier": "alaa@paramind.org",
+    "actorRole": "Admin",
+    "actionType": "rbac",
+    "details": "إنشاء حساب جديد: مؤقت (temp@paramind.org) بصلاحية Limited",
+    "createdAt": "2026-11-14T21:13:22.904Z"
+  },
+  {
+    "id": "d8229299-b0b1-4a4f-be29-6ffd5c8dcf07",
+    "actorName": "ميسر الورشة المناوب",
+    "actorIdentifier": "operator@paramind.org",
+    "actorRole": "Limited",
+    "actionType": "auth",
+    "details": "تسجيل دخول بصلاحية (Limited)",
+    "createdAt": "2026-11-14T21:13:22.876Z"
+  },
+  {
+    "id": "f7686970-bf01-44cd-a8e0-10163a977943",
+    "actorName": "علاء مرزوق",
+    "actorIdentifier": "alaa@paramind.org",
+    "actorRole": "Admin",
+    "actionType": "auth",
+    "details": "تسجيل دخول بصلاحية (Admin)",
+    "createdAt": "2026-11-14T21:13:22.857Z"
+  }
+]

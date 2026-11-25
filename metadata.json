@@ -1,0 +1,6 @@
+{
+  "name": "PARAMIND M&E — بوابة التقييم والمتابعة",
+  "description": "منصة التقييم والمتابعة الشاملة لورشات مبادرة PARAMIND وتقارير أداء المدربين والميسرين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
